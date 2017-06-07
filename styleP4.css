@@ -1,0 +1,51 @@
+
+body{
+	background-color: black;
+	color: white;
+	}
+	
+textarea{
+	width: 100%;
+	}
+	
+header{
+	color: red;
+	text-align: center;
+	font-weight: bold;
+	padding: 20px;
+	}
+		
+.container{
+	width: 800px;
+	margin: 0 auto;
+	box-sizing: border-box;
+	}
+	
+.login{
+	float:left;
+	width: 25%;
+	box-sizing: border-box;
+	padding: 10px;
+	}
+	
+.main{
+	width: 75%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+	color: yellow;
+	}
+	
+.btn{
+	background-color:red;
+	color:white;
+	}
+	
+footer{
+	color: blue;
+	text-align: center;
+	}
+	
+hr	{
+	5px;
+	}
